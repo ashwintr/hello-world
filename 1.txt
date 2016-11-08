@@ -1,0 +1,4 @@
+location change has to reflected in HCM.
+
+asset registration---> install eclipse
+

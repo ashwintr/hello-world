@@ -1,0 +1,35 @@
+
+JAVA
+
+	Data types, variables & arrays		-	1	.
+	Operators and control statements	-	1	.	
+	classess (ch 6 & 7)					-	1	.
+	inheritance (ch 7 & 8)				-	1
+	interface & exception handling		-	1
+	multithreading						-	1
+	enum								-	1
+	i/o, applets						-	1
+	generics							-	2
+	lambda expressions					-	1
+	
+	
+JS
+
+	Lexical structures & Types, Values, and Variables				-	1	.
+	Expressions and Operators & Statements 							-	1	.	
+	Objects & Arrays												-	1
+	Functions														-	1
+	Classes and Modules												-	1	
+	Pattern Matching with Regular Expressions & 
+		JavaScript Subsets and Extensions & Server-Side JavaScript	-	2
+	JavaScript in Web Browsers & The Window Object					- 	1
+	Scripting Documents & Scripting CSS								-	1
+	Handling Events & Scripted HTTP									-	1
+	The jQuery Library												-	1
+	Client-Side Storage & Scripted Media and Graphics & HTML5 APIs	-	2
+	
+	
+HTML5 & CSS3
+	
+	online sources
+	

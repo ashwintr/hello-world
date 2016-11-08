@@ -1,0 +1,18 @@
+js:
+	Eloquent JavaScript: A Modern Introduction to Programming
+	JavaScript: The Good Parts: The Good Parts
+	JavaScript: The Definitive Guide: The Definitive Guide
+	\\JavaScript & JQuery: Interactive Front-End Web Development Hardcover
+	\\Head First JavaScript Programming: A Brain-Friendly Guide
+	\\ You-Dont-Know-JS - https://github.com/getify/You-Dont-Know-JS
+
+java:
+	Head First Java
+	Java - The Complete Reference
+	Java in a Nutshell
+	Core Java with OCJP/SCJP - Durga videos
+	
+	
+HTML & CSS
+	html & css by jon duckett
+	
